@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '4.0.0.1'
+version = '4.0.0.2'
 
 setup(name='hoka.adapter.base',
       version=version,
