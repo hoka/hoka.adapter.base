@@ -5,7 +5,7 @@ version = '2.13.19.1'
 setup(name='hoka.adapter.base',
       version=version,
       description='Adapter to get the authenticated user',
-      long_description=open("README.txt").read(),
+      long_description=open("README.rst").read(),
       classifiers=[
           "Development Status :: 5 - Production/Stable",
           "Environment :: Web Environment",
