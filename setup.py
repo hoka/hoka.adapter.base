@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '2.13.19.1'
+version = '2.13.19.2'
 
 setup(name='hoka.adapter.base',
       version=version,
@@ -21,7 +21,7 @@ setup(name='hoka.adapter.base',
       keywords='adapter base hoka',
       author='Kai Hoppert',
       author_email='kai.hoppert@online.de',
-      url='http://eggserver.tcis.de/hoka.adapter.base',
+      url='https://github.com/hoka/hoka.adapter.base',
       license='GPL version 2',
       packages=find_packages(),
       namespace_packages=['hoka','hoka.adapter'],
